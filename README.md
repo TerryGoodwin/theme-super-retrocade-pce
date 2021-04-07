@@ -2,6 +2,14 @@
 Card images for the PC Engine/TurboGrafx 16 HuCard library for use with Retro-Bit's Super
 Retro-Cade
 
+# What it looks like
+
+An example card:  
+![alt text](https://raw.githubusercontent.com/TerryGoodwin/theme-super-retrocade-pce/main/cards/Keith%20Courage%20in%20Alpha%20Zonesgame.png "Keith Courage in Alpha Zones card")
+
+A crude photo taken from the TV of a full-screen of cards:  
+![alt text](https://raw.githubusercontent.com/TerryGoodwin/theme-super-retrocade-pce/main/photo_inaction.png "Photo from the TV")
+
 # Where to put these
 In the root of your sdcard, create a directory called `retrobit games` - your ROMs and
 card images should all go in there
